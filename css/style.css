@@ -7,6 +7,9 @@
     
 }
 header{
+    backdrop-filter: blur(10px);
+    background-color: rgba(240, 250, 255, 0.416);
+   
     display: flex;
     justify-content: space-between;
     width: 100%;
@@ -156,7 +159,7 @@ margin-top: 60px;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;;
     position: relative;
   display: inline-block;
-  left: 350px;
+  left: 450px;
   margin-top: 30px;
   margin-bottom: 100px;
   top: 24px;
